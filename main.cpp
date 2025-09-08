@@ -82,4 +82,20 @@ int main()
     // std::cout << "The A matrix is - " << A << std::endl;
     // std::cout << "The B amtrix is are - " << B << std::endl;
     std::cout << "The temperatures are - " << T << std::endl;
+
+    // Write out values of T and x coords for plotting
+    std::ofstream out("results.csv");
+
+    // Left boundary
+    out << 0.0 << "," << T_A << "\n";
+
+    // Interior nodes
+    for (int i = 0; i < T.n_elem; i++)
+    {
+        double x = (i + 0.5) * deltaX;
+        out << x << "," << T(i) << "\n";
+    }
+
+    // Right boundary
+    out << lengthRod << "," << T_B << "\n";
 }

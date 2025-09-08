@@ -1,3 +1,0 @@
-C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/build/CMakeFiles/FVM-1D-conduction.dir
-C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/build/CMakeFiles/edit_cache.dir
-C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/build/CMakeFiles/rebuild_cache.dir

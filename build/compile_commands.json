@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/build",
-  "command": "C:\\Users\\HP\\gcc\\bin\\g++.exe -IC:/msys64/mingw64/include -g -std=gnu++17 -o CMakeFiles\\FVM-1D-conduction.dir\\main.cpp.obj -c \"C:\\Users\\HP\\desktop\\CodingPractice\\CFD-Random-Bullshittery\\FVM Trials\\1D-Conduction\\main.cpp\"",
-  "file": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/main.cpp",
-  "output": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/FVM Trials/1D-Conduction/build/CMakeFiles/FVM-1D-conduction.dir/main.cpp.obj"
-}
-]

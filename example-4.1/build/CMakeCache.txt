@@ -23,8 +23,8 @@ CMAKE_AR:FILEPATH=C:/Users/HP/gcc/bin/ar.exe
 //No help, variable specified on the command line.
 CMAKE_BUILD_TYPE:STRING=Debug
 
-//CXX compiler
-CMAKE_CXX_COMPILER:STRING=C:/Users/HP/gcc/bin/g++.exe
+//No help, variable specified on the command line.
+CMAKE_CXX_COMPILER:UNINITIALIZED=g++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
